@@ -1,5 +1,0 @@
-Oxidiser	Fuel	Ratio	ISP	T(chamber)	T(exhaust)
-nitrous	ethane	7	183.3	3174	2532
-nitrous	ammonia	1.5	183.7	2861	2084
-nitrous	ethanol	6	191.9	2976	2079
-nitrous	diesel	35	194.9	3193	2555
